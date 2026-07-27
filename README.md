@@ -1,1 +1,1 @@
-Spring Boot Caching
+Spring Boot Default Caching
